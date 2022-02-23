@@ -1,0 +1,17 @@
+.container{
+    background-color: #fff;
+    margin-top: 2em;
+    border-radius: 1em;
+    padding-bottom: 2em;
+}
+
+#btnSubmit{
+    border-radius: 2em;
+    padding: 1em 3em 1em 3em;
+}
+
+#border{
+    border-radius: 1em;
+    border: gray solid 2px;
+    padding: 2em;
+}
